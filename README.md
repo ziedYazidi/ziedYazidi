@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ziedYazidi.ziedYazidi)
+[![visitors]](https://visitor-badge.laobi.icu/badge?page_id=ziedYazidi.ziedYazidi)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziedYazidi&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
